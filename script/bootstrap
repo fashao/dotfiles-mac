@@ -160,5 +160,6 @@ then
   fi
 fi
 
-echo ''
+echo 'chsh /bin/zsh ...'
+chsh /bin/zsh
 echo '  All installed!'

@@ -9,6 +9,8 @@
 
 更多的 dotfiles 请参考 [GitHub does dotfiles](https://dotfiles.github.io/)。
 
+# 我的修改
+添加my_env目录和my_sh目录，个人的path环境设置、alias和平常的一些小脚本都放到这里
 # Agenda
 
 - [快速开始](#quick-start)
